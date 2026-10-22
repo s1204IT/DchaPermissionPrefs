@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="errorscreen_error_cd">18dp</dimen>
+    <dimen name="usercertification_edittext_id">38dp</dimen>
+    <dimen name="usercertification_edittext_password">38dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="maintenance_error_list">
+        <item>@string/error_code_bae_maintenance</item>
+    </array>
+</resources>

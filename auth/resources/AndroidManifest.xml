@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sharedUserId="jp.co.benesse.dcha.apps.shareduserid"
+    android:versionCode="224205183"
+    android:versionName="01.00.000.0183_CT2_2024-05-10_10-45-02"
+    package="jp.co.benesse.touch.auth"
+    platformBuildVersionCode="22"
+    platformBuildVersionName="5.1.1-1819727">
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="22"/>
+    <permission
+        android:name="jp.co.benesse.touch.permission.ACCESS_ACOUNT"
+        android:protectionLevel="signature"/>
+    <uses-permission android:name="jp.co.benesse.touch.permission.ACCESS_ACOUNT"/>
+    <uses-permission android:name="jp.co.benesse.touch.permission.ACCESS_SERVER"/>
+    <uses-permission android:name="jp.co.benesse.dcha.permission.ACCESS_DATA"/>
+    <application
+        android:theme="@android:style/Theme.NoTitleBar"
+        android:label="@string/app_name"
+        android:icon="@drawable/ic_launcher"
+        android:name="jp.co.benesse.touch.auth.application.TouchApplication"
+        android:allowBackup="false">
+        <service
+            android:name="jp.co.benesse.touch.auth.AuthService"
+            android:permission="jp.co.benesse.touch.permission.ACCESS_ACOUNT"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="jp.co.benesse.touch.auth.AuthService"/>
+            </intent-filter>
+        </service>
+    </application>
+</manifest>
