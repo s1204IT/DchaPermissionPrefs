@@ -1,0 +1,17 @@
+jp.co.benesse.dcha.setupwizard
+jp.co.benesse.touch.auth
+jp.co.benesse.touch.comm
+jp.co.benesse.touch.home
+jp.co.benesse.touch.sbox
+jp.co.benesse.lessontool
+jp.co.benesse.dcha.databox
+jp.co.benesse.MathDystopia
+jp.co.benesse.touch.setupchuzemi
+jp.co.benesse.touch.asynccomm
+jp.co.benesse.touch.chubrowser
+jp.co.benesse.touch.setuplogin
+jp.co.benesse.dcha.nongradebrowser
+jp.co.benesse.dcha.allgrade.usersetting
+jp.co.benesse.fourskillscbtsho
+jp.co.benesse.dcha.dchaservice
+jp.co.benesse.touch.update

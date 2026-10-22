@@ -1,0 +1,15 @@
+jp.co.benesse.smartwatchneoapp
+jp.co.benesse.touch.auth
+jp.co.benesse.touch.comm
+jp.co.benesse.chu2021anki
+jp.co.benesse.touch.alarm
+jp.co.benesse.YosoumonApp
+jp.co.benesse.MathDystopia
+jp.co.benesse.touch.asynccomm
+jp.co.benesse.touch.chubrowser
+jp.ne.benesse.chui.akapen.camera
+jp.co.benesse.dcha.nongradebrowser
+jp.co.benesse.YoutenMaster
+air.jp.co.benesse.ChallengeEnglishDCCK19
+jp.co.benesse.fourskillscbtsho
+air.jp.co.benesse.ChallengeEnglishDC

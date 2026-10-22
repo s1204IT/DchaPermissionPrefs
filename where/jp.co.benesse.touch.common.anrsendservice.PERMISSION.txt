@@ -1,0 +1,2 @@
+jp.co.benesse.touch.home
+jp.co.benesse.touch.common.anrsendservice

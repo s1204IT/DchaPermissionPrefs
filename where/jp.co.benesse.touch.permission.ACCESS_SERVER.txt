@@ -1,0 +1,4 @@
+jp.co.benesse.touch.auth
+jp.co.benesse.touch.comm
+jp.co.benesse.dcha.nongradebrowser
+jp.co.benesse.fourskillscbtsho

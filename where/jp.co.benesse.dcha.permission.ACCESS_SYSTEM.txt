@@ -1,0 +1,12 @@
+jp.co.benesse.touch.update.install
+jp.co.benesse.dcha.setupwizard
+jp.co.benesse.touch.comm
+jp.co.benesse.dcha.systemsettings
+jp.co.benesse.touch.setupchuzemi
+jp.co.benesse.touch.setuplogin
+jp.co.benesse.dcha.nongradebrowser
+jp.co.benesse.dcha.allgrade.usersetting
+jp.co.benesse.dcha.dchautilservice
+jp.co.benesse.fourskillscbtsho
+jp.co.benesse.dcha.dchaservice
+jp.co.benesse.touch.update

@@ -1,0 +1,3 @@
+jp.co.benesse.touch.home
+jp.co.benesse.lessontool
+jp.co.benesse.touch.common.anrsendservice
